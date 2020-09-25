@@ -10,6 +10,13 @@ number_sections: true
 theme: lumen
 
 ---
+
+------------------------------------------------------------------------
+
+Left panel 
+
+------------------------------------------------------------------------
+
 ### Hey, welcome to my little corner of Github. 
 
 I teach Urban + Environmental Planning at the University of Virginia. In addition to introductory data science with and emphasis on geospatial data and urban applications, I also teach a course in civic teachnology. 
