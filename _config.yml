@@ -7,7 +7,6 @@ logo: #
 round-avatar : true
 
 navbar-links:
-  bio              : "planning prof 👨🏽‍🏫 data enthusiast 📊 banjo frailer 🪕 purveyor of puns 😂"
   location         : "Charlottesville, Virginia"
   uvasite         : "https://www.arch.virginia.edu/people/bev-wilson"
   googlescholar    : "https://scholar.google.com/citations?user=-y4JRccAAAAJ&hl=en"
