@@ -5,6 +5,9 @@ author: Bev Wilson
 locale: en_US
 logo: #
 round-avatar : true
+googlescholar    : "https://scholar.google.com/citations?user=-y4JRccAAAAJ&hl=en"
+email            : "bw6xs@virginia.edu"
+orcid            : "http://orcid.org/0000-0003-3892-456X"
 
 navbar-links:
   location : Charlottesville, Virginia  
