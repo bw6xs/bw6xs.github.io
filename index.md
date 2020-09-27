@@ -12,7 +12,7 @@ theme: lumen
 ---
 
 ------------------------------------------------------------------------
-<img src="images/bev_wilson_long.JPG" width="200" />
+<center><img src="images/bev_wilson_long.JPG" width="200"/></center>
 
 ------------------------------------------------------------------------
 
