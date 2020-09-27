@@ -3,15 +3,15 @@ theme: jekyll-theme-minimal
 title: Bev Wilson
 locale: en_US
 logo: #
-description : &description "planning prof 👨🏽‍🏫 data enthusiast 📊 banjo frailer 🪕 purveyor of puns 😂"
+description : &description 
 
-  name: Navigate
-  bio : "Your biography for the left-hand sidebar"
-  avatar: bev_wilson_long.png
+author:
+  name             : "Navigate"
+  bio              : "planning prof 👨🏽‍🏫 data enthusiast 📊 banjo frailer 🪕 purveyor of puns 😂"
+  location         : "Charlottesville, Virginia"
+  employer         :
+  googlescholar    : "https://scholar.google.com/citations?user=-y4JRccAAAAJ&hl=en"
   email: bw6xs@virginia.edu
-  # Do not include the @ symbol in your Twitter username
   linkedin: bev-wilson-aicp-0a00545
   github: bw6xs
   orcid: 0000-0003-3892-456X
-  google:
-    scholar: -y4JRccAAAAJ
