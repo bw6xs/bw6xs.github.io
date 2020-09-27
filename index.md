@@ -14,9 +14,6 @@ theme: lumen
 ------------------------------------------------------------------------
 <img src="images/bev_wilson_long.JPG" width="300" />
 
-
-![](images/bev_wilson_long.JPG){width=30%}
-
 ------------------------------------------------------------------------
 
 ### Hey, welcome to my little corner of Github. 
