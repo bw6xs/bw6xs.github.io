@@ -3,12 +3,13 @@ theme: jekyll-theme-minimal
 title: Bev Wilson
 locale: en_US
 logo: #
+description : &description "This is a sample Jekyll academic website."
 
 # Enter the following platform usernames if you would like for them to appear on your site.
-owner:
-  name: Bev Wilson
+author:
+  name: Navigate
+  bio : "Your biography for the left-hand sidebar"
   avatar: bev_wilson_long.png
-  bio: "This is a sample Jekyll academic website."
   email: bw6xs@virginia.edu
   # Do not include the @ symbol in your Twitter username
   linkedin: bev-wilson-aicp-0a00545
