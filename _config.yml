@@ -7,5 +7,5 @@ logo: #
 round-avatar : true
 
 navbar-links:
-  location         : "Charlottesville, Virginia"
-  uvasite         : "https://www.arch.virginia.edu/people/bev-wilson"
+  location : Charlottesville, Virginia  
+  uvasite  : https://www.arch.virginia.edu/people/bev-wilson
