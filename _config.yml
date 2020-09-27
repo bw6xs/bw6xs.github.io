@@ -5,6 +5,7 @@ locale: en_US
 logo: #
 description : &description 
 
+author:
   name             : "Navigate"
   bio              : "planning prof 👨🏽‍🏫 data enthusiast 📊 banjo frailer 🪕 purveyor of puns 😂"
   location         : "Charlottesville, Virginia"
