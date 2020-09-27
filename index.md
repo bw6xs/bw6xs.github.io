@@ -9,6 +9,22 @@ toc_depth: 3
 number_sections: true
 theme: lumen
 
+locale: en_US
+logo: #
+
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Bev Wilson
+  avatar: bev_wilson_long.png
+  bio: "This is a sample Jekyll academic website."
+  email: bw6xs@virginia.edu
+  # Do not include the @ symbol in your Twitter username
+  linkedin: bev-wilson-aicp-0a00545
+  github: bw6xs
+  orcid: 0000-0003-3892-456X
+  google:
+    scholar: -y4JRccAAAAJ     
+
 ---
 
 ------------------------------------------------------------------------
