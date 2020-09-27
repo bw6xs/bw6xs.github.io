@@ -4,7 +4,7 @@ title: Bev Wilson
 author: Bev Wilson
 locale: en_US
 logo: #
-description : &description 
+round-avatar : true
 
 navbar-links:
   bio              : "planning prof 👨🏽‍🏫 data enthusiast 📊 banjo frailer 🪕 purveyor of puns 😂"
