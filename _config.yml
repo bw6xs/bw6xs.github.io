@@ -3,10 +3,8 @@ theme: jekyll-theme-minimal
 title: Bev Wilson
 locale: en_US
 logo: #
-description : &description "This is a sample Jekyll academic website."
+description : &description "planning prof 👨🏽‍🏫 data enthusiast 📊 banjo frailer 🪕 purveyor of puns 😂"
 
-# Enter the following platform usernames if you would like for them to appear on your site.
-author:
   name: Navigate
   bio : "Your biography for the left-hand sidebar"
   avatar: bev_wilson_long.png
