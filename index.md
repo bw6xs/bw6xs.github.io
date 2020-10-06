@@ -1,5 +1,5 @@
 ---
-title: "Bev"
+title: 
 output: 
   html_document:
   toc: true
@@ -12,8 +12,7 @@ theme: lumen
 ---
 
 ------------------------------------------------------------------------
-
-Left panel 
+<center><img src="images/bev_wilson_long.png" width="200"/></center>
 
 ------------------------------------------------------------------------
 
