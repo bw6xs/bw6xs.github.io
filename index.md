@@ -16,8 +16,8 @@ theme: lumen
 
 ------------------------------------------------------------------------
 
-### Hey, welcome to my little corner of Github. 
+### Hey, welcome to my little corner of GitHub. 
 
-I teach Urban + Environmental Planning at the University of Virginia. In addition to data science with and emphasis on geospatial data and urban applications, I also teach a course in civic technology, and geographic information systems. 
+I am an Urban + Environmental Planning professor at the University of Virginia. In addition to data science with and emphasis on geospatial data and urban applications, I also teach a course in civic technology, and geographic information systems.
 
 I am in the process of fleshing out this site with more information related to ongoing and selected completed research projects, so stop by again soon!
