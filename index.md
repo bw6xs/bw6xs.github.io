@@ -26,6 +26,9 @@ I am in the process of fleshing out this site with more information related to o
 ---
 
 # Charlottesville Projects and Analyses
+<li class="masthead__menu-item">
+  
 <a href="bw6xs.github.io/cville/sales_since_2017_less_than_2M.html">Charlottesville Homes Sales</a>
 [The Map](bw6xs.github.io/cville/sales_since_2017_less_than_2M.html)
+  </li>
 
