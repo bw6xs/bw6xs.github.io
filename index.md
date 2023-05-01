@@ -23,6 +23,14 @@ I am an Urban + Environmental Planning professor at the University of Virginia. 
 I am in the process of fleshing out this site with more information related to ongoing and selected completed research projects, so stop by again soon!
 
 
+# Charlottesville Projects and Analyses
+<li class="masthead__menu-item">
+  
+<a href="bw6xs.github.io/cville/sales_since_2017_less_than_2M.html">Charlottesville Homes Sales</a>
+[The Map](bw6xs.github.io/cville/sales_since_2017_less_than_2M.html)
+  </li>
+
+
 ---
 
 # Charlottesville Projects and Analyses
