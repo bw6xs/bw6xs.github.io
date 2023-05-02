@@ -3,7 +3,7 @@
 <br> 
 
 ### Charlottesville Projects and Analyses
-<a href="bw6xs.github.io/cville/sales_since_2017_less_than_2M.html">Charlottesville Homes Sales</a>
+<a href="https://github.com/bw6xs/cville/sales_since_2017_less_than_2M.html">Charlottesville Homes Sales</a>
 
 ### Charlottesville Projects and Analyses 
-[Charlottesville Homes Sales](cville/sales_since_2017_less_than_2M.html)
+[Charlottesville Homes Sales](./cville/sales_since_2017_less_than_2M.html)
