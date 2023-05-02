@@ -3,15 +3,17 @@
 <br> 
 
 ### Charlottesville Projects and Analyses 
-[Charlottesville Homes Sales](./cville/sales_since_2017_less_than_2M.html)
-[Land Surface Temperatures](./cville/heatexposure.html)
+  + [Charlottesville Homes Sales](./cville/sales_since_2017_less_than_2M.html)
+  + [Land Surface Temperatures](./cville/heatexposure.html)
 
 ### Arlington County Projects and Analyses 
-[Vehicle Crashes](./arlington/Exploring-VDOT-Crash-Data.html)
-[e-Scooters](./arlington/Where-Are-The-Scooters-Right-Now.html)
-[Employment and Retail Nodes](./arlington/employment_and_retail.html)
+  + [Vehicle Crashes](./arlington/Exploring-VDOT-Crash-Data.html)
+  + [e-Scooters](./arlington/Where-Are-The-Scooters-Right-Now.html)
+  + [Employment and Retail Nodes](./arlington/employment_and_retail.html)
 
 ### Warren County NC Projects and Analyses 
-[Educational and Health Outcomes](./warren/charter.html)
+  + [Educational and Health Outcomes](./warren/charter.html)
 
-----
+---
+
+---
